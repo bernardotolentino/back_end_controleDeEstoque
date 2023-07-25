@@ -1,0 +1,81 @@
+[
+  {
+<<<<<<< HEAD
+    "_id": "82b7582b-6802-41b5-b78a-f843e03b7c07",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:3001/products/:id",
+    "url": "http://localhost:3001/products/:id",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2023-03-22T21:28:09.126Z",
+    "modified": "2023-03-22T21:28:09.126Z",
+=======
+    "_id": "eb5d776b-f5b8-4bed-aa17-22fd0ecf8e60",
+    "colId": "history",
+    "containerId": "",
+    "name": "localhost:3000/products",
+    "url": "localhost:3000/sales/1",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2023-01-17T18:13:27.257Z",
+    "modified": "2023-02-01T00:51:34.646Z",
+>>>>>>> 99c775e4902e6b6dee7448cef2d81e61c3c26da1
+    "headers": [],
+    "params": [],
+    "tests": []
+  },
+  {
+<<<<<<< HEAD
+    "_id": "e4356523-7209-4e8a-b3ed-161b9e8bf21b",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:3001/products",
+    "url": "http://localhost:3001/products",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2023-03-22T21:28:14.540Z",
+    "modified": "2023-03-23T19:37:35.944Z",
+    "headers": [],
+    "params": [],
+=======
+    "_id": "f5e67945-5afb-4b6a-8b6a-7635d47bad8b",
+    "colId": "history",
+    "containerId": "",
+    "name": "localhost:3000/products",
+    "url": "localhost:3000/products",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2023-01-17T18:13:41.175Z",
+    "modified": "2023-01-17T21:33:44.149Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"name\": \"a\"\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "b50e30ee-721e-40a9-b3d7-fba0570f4328",
+    "colId": "history",
+    "containerId": "",
+    "name": "localhost:3000/sales/1",
+    "url": "localhost:3000/products/search?q=Martelo",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2023-02-01T00:29:03.698Z",
+    "modified": "2023-02-10T13:54:23.974Z",
+    "headers": [],
+    "params": [
+      {
+        "name": "q",
+        "value": "Martelo",
+        "isPath": false
+      }
+    ],
+>>>>>>> 99c775e4902e6b6dee7448cef2d81e61c3c26da1
+    "tests": []
+  }
+]
